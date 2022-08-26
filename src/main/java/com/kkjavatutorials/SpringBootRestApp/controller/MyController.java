@@ -8,7 +8,7 @@ public class MyController {
 	
 	@GetMapping(path = "/welcome")
 	public String welcome() {
-		return "Welcome Shubham , Shweta, Sitesh, Soubhagya, Ankit";
+		return "Welcome to Soubhagya";
 	}
 
 }
